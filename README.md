@@ -4,6 +4,8 @@ React
 
 A game built with HTML, CSS, React and bootstrap.
 
+You can see and play with [live demo](https://ayseakyol-tic-tac-toe.herokuapp.com/).
+
 It looks something like this:
 
 [![tic-tac-toe screen shot](./tic=tac-toe.png)](https://github.com/ayseakyol/TIC-TAC-TOE)
